@@ -12,7 +12,7 @@
 
 **A multi-task deep learning system for real-time gastrointestinal abnormality detection from endoscopic images**
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI700-Final-Project-2025/esophageal-abnormality-detection/blob/main/Group_3_AI700_001_12_Dec_Fall2025.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AkilanManivannanak/Esophageal-Cancer-Detection/blob/main/Group_3_AI700_001_12_Dec_Fall2025.ipynb)
 [![Dataset](https://img.shields.io/badge/📊-HyperKvasir_2020-lightgrey)](https://datasets.simula.no/hyperkvasir/)
 
 *"Better detection today means better outcomes tomorrow."*
@@ -74,10 +74,9 @@ A single AI model that performs **two critical tasks simultaneously**:
 ## 📁 Repository Structure
 
 ```
-esophageal-abnormality-detection/
+Esophageal-Cancer-Detection/
 ├── Group_3_AI700_001_12_Dec_Fall2025.ipynb  # 🚀 MAIN PROJECT NOTEBOOK (Everything in one file)
-├── README.md                                 # This documentation file
-└── LICENSE                                   # MIT License file
+└── README.md                                 # This documentation file
 ```
 
 **Note**: This is a streamlined repository with everything contained in a single Jupyter Notebook. This approach ensures:
@@ -98,7 +97,7 @@ This is the **easiest and fastest** way to explore our project:
 
 1. **Click the Colab badge** at the top of this README, or go directly to:
    ```
-   https://colab.research.google.com/github/AI700-Final-Project-2025/esophageal-abnormality-detection/blob/main/Group_3_AI700_001_12_Dec_Fall2025.ipynb
+   https://colab.research.google.com/github/AkilanManivannanak/Esophageal-Cancer-Detection/blob/main/Group_3_AI700_001_12_Dec_Fall2025.ipynb
    ```
 
 2. **Sign in** with your Google account (if prompted)
@@ -124,10 +123,10 @@ If you prefer to run the project on your own machine:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/AI700-Final-Project-2025/esophageal-abnormality-detection.git
+git clone https://github.com/AkilanManivannanak/Esophageal-Cancer-Detection.git
 
 # 2. Navigate to the project folder
-cd esophageal-abnormality-detection
+cd Esophageal-Cancer-Detection
 
 # 3. Create and activate a virtual environment (recommended)
 python -m venv venv
@@ -435,7 +434,7 @@ We extend our sincere gratitude to:
 *"Enhancing early detection for better patient outcomes through ethical AI innovation"*
 
 📅 **Last Updated**: December 2025  
-🔗 **Repository**: https://github.com/AI700-Final-Project-2025/esophageal-abnormality-detection
+🔗 **Repository**: https://github.com/AkilanManivannanak/Esophageal-Cancer-Detection
 
 **[⬆ Back to Top](#-ai-powered-endoscopic-abnormality-detection)**
 
