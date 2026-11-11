@@ -143,8 +143,8 @@ source venv/bin/activate
 # Example for CUDA 11.8:
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
-# 5. Install additional requirements
-pip install numpy pandas matplotlib seaborn scikit-learn tqdm jupyter notebook ipywidgets
+# 5. Install the remaining requirements (everything the notebook imports)
+pip install -r requirements.txt
 ```
 
 #### Running the Notebook Locally
